@@ -4,7 +4,7 @@
   Moro em São Paulo e formada em engenharia de materiais, mas durante minha trajetória me descobri apaixonada por tecnologia.
 Por 5 anos trabalhei com projetos industriais em desenvolvimento e implementação de sistemas, porém, no momento, me encontro em uma transição de carreira para área de dados, mais especificamente em Análise e Ciência de Dados e DataViz. 
 
-Sigo me aprofundando em Python (e bibliotecas NumPy, Seaborn), SQL (principalmente com Oracle Database) e visualização de Dados em Power Bi (juntamente com Power Query e linguagem DAX).
+Sigo me aprofundando em Python (bibliotecas NumPy, Seaborn e Pandas), SQL (principalmente com Oracle Database) e visualização de Dados em Power Bi (juntamente com Power Query e linguagem DAX).
 
 No tempo livre adoro ler, assistir filmes e jogar.
 
