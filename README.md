@@ -6,7 +6,7 @@ Por 5 anos trabalhei com projetos industriais em desenvolvimento e implementaç�
 
 Sigo me aprofundando em Python (bibliotecas NumPy, Seaborn, Pandas, matplotlib e etc.), SQL (principalmente com Oracle Database) e visualização de Dados em Power BI (juntamente com Power Query e linguagem DAX), com ênfase em tratamento e preparação de base de dados para visualização.
 
-Para mais detalhes, acesse meu [currículo completo](www.google.com.br).
+Para mais detalhes, acesse meu [currículo completo](https://github.com/NathalyX/NathalyX/blob/6d17d5da0a03bb3259bd46809acd76b0a288f58c/Curriculo%20Nathaly%20Santos.pdf).
 
 
 
